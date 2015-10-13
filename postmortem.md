@@ -1,6 +1,6 @@
 # BT Hackathon
 
-A couple of weeks ago I participated in a hackathon run by telecoms giants BT and Alcatel Lucene. Here's a brief wrap-up of what I got up to -
+A couple of weeks ago I participated in a hackathon run by telecoms giants BT and Alcatel-Lucent. Here's a brief wrap-up of what I got up to -
 
 ## Day 0 - Friday Evening
 
