@@ -1,0 +1,13 @@
+- if @hub.errors.any?
+  = @hub.errors.inspect
+
+= simple_form_for @hub do |f|
+
+  = text_field_tag :geocomplete
+  = f.input :latitude
+  = f.input :longitude
+  .map_canvas
+  = f.input :nickname
+
+  = f.submit
+

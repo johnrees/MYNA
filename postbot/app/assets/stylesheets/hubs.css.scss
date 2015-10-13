@@ -1,0 +1,9 @@
+#stamp {
+  -webkit-mask-box-image: image-url('stampTiles.png') 10 repeat;
+  mask-box-image: image-url('stampTiles.png') 10 repeat;
+  background: darken(#F7F3E9, 15%);
+  padding: 15px;
+}
+#qrcode {
+  display: block;
+}

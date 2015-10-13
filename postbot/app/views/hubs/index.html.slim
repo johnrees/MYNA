@@ -1,0 +1,10 @@
+.row
+  .columns.large-12
+    ul
+      - @hubs.each do |hub|
+        li
+          / = fa_icon "home"
+          h5= link_to hub, hub
+          = hub.full_address
+
+    = link_to fa_icon("plus", text: "Add Hub"), new_hub_path, class: 'button'

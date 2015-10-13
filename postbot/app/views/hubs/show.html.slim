@@ -1,0 +1,24 @@
+.row
+  .columns.large-12
+    ul.breadcrumbs
+      li= link_to "Hubs", hubs_path
+      li= @hub.city
+.row
+  .columns.large-5
+    = title @hub
+  .columns.large-7.buttons
+    = link_to fa_icon('envelope', text: "Simulate Delivery"), simulate_delivery_hub_path(@hub), class: 'button small'
+    = link_to fa_icon('edit', text: "Edit Hub"), edit_hub_path(@hub), class: 'button small'
+    = link_to fa_icon('remove', text: "Remove Hub"), @hub, method: :delete, class: 'button alert small'
+.row
+  .columns.large-12
+    .address= @hub.full_address
+
+.row
+  .columns.large-9
+    = image_tag "https://maps.googleapis.com/maps/api/streetview?size=700x350&location=#{@hub.latitude},#{@hub.longitude}&fov=120&heading=50&pitch=0"
+
+  .columns.large-3
+    #stamp
+      #qrcode
+    = link_to fa_icon('print', text: "Print Stamp"), ""
