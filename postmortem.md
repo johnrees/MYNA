@@ -30,8 +30,8 @@ App Interface | Actions
 Courier arrives, nobody home to accept delivery. Scans QR code | App automatically calls through list of approved neighbours. A neighbour answers automated call, confirms they can accept the delivery.
 Courier is notified of neighbour's address | Courier then leaves package with neighbour, who is expecting their imminent arrival
 
-![image](images/postbot1.png)
-![image](images/postbot2.png)
+![image](https://github.com/johnrees/MYNA/raw/master/images/postbot1.png)
+![image](https://github.com/johnrees/MYNA/raw/master/images/postbot2.png)
 
 
 ### Virtual Assistant
@@ -48,29 +48,29 @@ Example situation -
 
 I had grand ideas of making a system for rating the assistants, and adding a tool to generate custom billing rates and invoices but in the end I needed to spend the time elsewhere.
 
-![image](images/tv.JPG)
+![image](https://github.com/johnrees/MYNA/raw/master/images/tv.JPG)
 
 The day wrapped up with BURRITOS and beer, and a fabulous last-minute victory for Wales vs England in the rugby world cup. Although, as the sole welshman in a room full of devastated England fans I felt it wise to keep my head down, and I  cracked on with the work in hand.
 
-![image](images/services.png)
+![image](https://github.com/johnrees/MYNA/raw/master/images/services.png)
 
 What followed was a frantic evening of trying to impose my will on various SIP clients (basically, tools like Skype) and finally getting reliable results after realising that I had some extremely weird default settings in the configuration.
 
-![image](images/linphone.png)
+![image](https://github.com/johnrees/MYNA/raw/master/images/linphone.png)
 
-Finally I decided to bring all my ideas together into an App Store style platform that would be able to host different services. I added a couple more mini apps to what I already had, including a Flight Voicemail system. 
+Finally I decided to bring all my ideas together into an App Store style platform that would be able to host different services. I added a couple more mini apps to what I already had, including a Flight Voicemail system.
 
-![image](images/flights.png)
+![image](https://github.com/johnrees/MYNA/raw/master/images/flights.png)
 
 ## Day 2 - Sunday
 
-I probably had about 15 minutes sleep in total, before realising that I was so loaded with caffeine that the only chance of rest I'd have would be if my heart burst out of my chest. 
+I probably had about 15 minutes sleep in total, before realising that I was so loaded with caffeine that the only chance of rest I'd have would be if my heart burst out of my chest.
 
 I spent the morning trying to tighten up the UI for the presentation leaving the actual testing until the last 20 minutes. Big mistake. In testing I realised that a couple of things I'd expected to 'just work' weren't going to play along. No, my friend, that day the technical-demo-gods were furious... I guess they must be England fans.
 
 Anyway, after a couple of hours messing around I had things at a point where I felt I could finally present them. I received some good advice, "even if things go catastrophically wrong, just ignore it and move on" and felt ready to roll. Inevitably I faced a small glitch in my very first demo, *see technical-demo-gods note above* but after that everything seemed to go well. So well infact that I realised I was going over my allocated 5 minute slot but the audience egged me on to keep going. After a genuinely heartfelt, albeit sleep-deprived rambling, thank you, I sat back in my seat and took a sigh of relief, knowing that I'd done all I could.
 
-![image](images/presenting.jpg)
+![image](https://github.com/johnrees/MYNA/raw/master/images/presenting.jpg)
 
 ## Conclusion
 
