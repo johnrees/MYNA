@@ -75,3 +75,9 @@ Anyway, after a couple of hours messing around I had things at a point where I f
 ## Conclusion
 
 I thoroughly enjoyed my brief residency courtesy of BT at Techhub London and would recommend it to anyone who randomly stumbles upon an ad like me and thinks it might be a fun challenge to take on. It's a great opportunity to block yourself off from outside distractions and focus on trying new technologies and meeting new friends. All the while being stuffed with copious amounts of pizza and mexican food!
+
+## Update - Weds 14th October
+
+A shortlist of finalists were invited to the BT Tower and I finished in second place! Thanks to everyone who voted for me and congratulations to the other winners. I will now clean up my code and put it in this repository and who knows, maybe it could be useful for someone in the future. Cheers!
+
+![image](https://github.com/johnrees/MYNA/raw/master/images/winning.jpg)
